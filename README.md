@@ -2,11 +2,11 @@
 
 ## I'm Hallison Batista!
 
-:computer: I'm Software Engineer!
+:computer: I am Software Engineer!
 
-:house_with_garden: I’m from Brazil, living in Manaus (Amazonas). I'm father of the two children.
+:house_with_garden: I am from Brazil, living in Manaus (Amazonas). I am a father of two children.
 
-:books: I’m currently learning everything, but I like job with Ruby, NodeJS
+:books: I’m currently learning everything, but I like job with Ruby, NodeJS, Go.
 
 :outbox_tray: 2021 Goals: skills back-end🚀 
 
