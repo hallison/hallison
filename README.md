@@ -1,14 +1,30 @@
-### Hi there 👋
+# Welcome!
 
-**hallison/hallison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Hallison Batista!
 
-Here are some ideas to get you started:
+:computer: I'm Software Engineer!
 
-- 🔭 I’m currently working on Bemol S/A
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+:house_with_garden: I’m from Brazil, living in Manaus (Amazonas). I'm father of the two children.
+
+:books: I’m currently learning everything, but I like job with Ruby, NodeJS
+
+:outbox_tray: 2021 Goals: skills back-end🚀 
+
+ 
+## About me
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)]( https://github.com/pamelaotero)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/hallison.batista/)
+
+## Languages and Tools:
+
+<div>
+<a href="https://github.com/pamelaotero">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hallison&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hallison&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</a>
+</div>
+
+- Thanks for visiting.
+- Enjoy it!! o/
