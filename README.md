@@ -70,5 +70,9 @@
 ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 ![Nintendo 3DS](https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white)
 
+# My hobbies...
+
+[![@MaisPaginas](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/maispaginas)
+
 - Thanks for visiting.
 - Enjoy it!! o/
