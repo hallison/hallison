@@ -2,13 +2,13 @@
 
 ## I'm Hallison Batista!
 
-:computer: I am Software Engineer!
+:computer: I am Developer, Web Developer, Software Engineer, ex-frontend lover.
 
-:house_with_garden: I am from Brazil, living in Manaus (Amazonas). I am a father of two children.
+:house_with_garden: I am from Brazil, born and living in Manaus (Amazonas). I am the father of two boys.
 
-:books: I’m currently learning everything, but I like job with Ruby, NodeJS, Go.
+:books: I am currently learning everything, but I love job with Ruby, NodeJS, Go.
 
-:outbox_tray: 2021 Goals: skills back-end🚀 
+:outbox_tray: 2024 Goals: skills back-end🚀 
 
  
 ## About me
@@ -39,8 +39,9 @@
 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Sinatra](https://img.shields.io/badge/Sinatra-000000?style=for-the-badge&logo=rubysinatra&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![ExpressJS](https://img.shields.io/badge/Express-404D59?logo=express&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
@@ -61,6 +62,7 @@
 
 ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 ![Shell script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
 # Play with me!
@@ -72,7 +74,7 @@
 
 # My hobbies...
 
-[![@MaisPaginas](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/maispaginas)
+I am a comic reader (and try a collector), old school gamer, try play eletric guitar and sing.
 
 - Thanks for visiting.
 - Enjoy it!! o/
