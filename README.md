@@ -2,14 +2,13 @@
 
 ## I'm Hallison Batista!
 
-:computer: I am Developer, Web Developer, Software Engineer, ex-frontend lover.
+I have been an IT professional since 1999 and a software developer since 2005. Okay, I am a web developer, software engineer and former frontend lover (before 2010, everything was simple).
 
-:house_with_garden: I am from Brazil, born and living in Manaus (Amazonas). I am the father of two boys.
+I am from Brazil, born and living in Manaus (Amazonas). Father of two boys.
 
-:books: I am currently learning everything, but I love job with Ruby, NodeJS, Go.
+I am currently learning everything, but I love job with Ruby, NodeJS, Go.
 
-:outbox_tray: 2024 Goals: skills back-end🚀 
-
+2025 Goals: survive!
  
 ## About me
 
